@@ -1,0 +1,56 @@
+.row-padding{
+  padding-top: 2em;
+}
+
+.row-contacts{
+  font-size: 2em;
+}
+
+.search-box-contacts{
+  padding-left: 3em;
+}
+
+.table-header-padding{
+  padding-left: 3em;
+}
+
+.table-header{
+  font-weight: bold;
+  text-align: left;
+  width: 50em;
+  height: 3em;
+  background-color: grey;
+  border-radius: 3px;
+  padding-left: 1em;
+  padding-top: 1em;
+  padding-bottom: 2.5em;
+}
+
+.table-content{
+  text-align: left;
+  width: 50em;
+  height: 3em;
+  background-color: #C0C0C0;
+  border-radius: 3px;
+  padding-left: 1em;
+  padding-top: 1em;
+  padding-bottom: 2.5em;
+}
+
+.add-contacts-button{
+  padding-right: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  text-align: center;
+  background-color: #9FFFCB;
+  border-radius: 10px;
+  border: none;
+  display: inline-block;
+  border: 1px solid black;
+}
+
+.contact-details{
+  display: flex;
+  justify-content: right;
+  padding-left: 55em;
+}
